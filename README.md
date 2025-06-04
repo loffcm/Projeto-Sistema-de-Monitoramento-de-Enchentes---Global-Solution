@@ -88,7 +88,7 @@ Comentários explicativos acompanham cada parte para facilitar a manutenção e 
 4. Abra o Monitor Serial para acompanhamento.
 5. Simule níveis d’água variando a distância de objetos ao sensor.
 
-🔗 Projeto disponível no Tinkercad: (inserir link aqui)
+🔗 [Projeto no Tinkercad](https://www.tinkercad.com/things/knHiK7YuV9W-gs-edge?sharecode=G9BKf2ZWoXREq8jQ5oc6E3-hK2wXMCMHhGZZmsYx3WQ)
 
 ---
 
