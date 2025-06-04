@@ -18,8 +18,6 @@
   - Indentação consistente e formatação legível.
   - Tratamento de erros/timeout no sensor.
 
-  Autor: [Seu Nome]
-  Data:   [Data atual]
 */
 
 // ============================
