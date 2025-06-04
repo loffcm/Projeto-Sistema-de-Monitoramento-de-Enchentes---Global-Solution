@@ -67,7 +67,7 @@ Se o sensor falhar, o sistema ativa LED vermelho piscando e o display mostra “
 
 ## 💻 Código
 
-O código está disponível no arquivo monitoramento_enchentes.ino.
+O código está disponível no arquivo `monitoramento_enchentes.ino`.
 Comentários explicativos acompanham cada parte para facilitar a manutenção e entendimento.
 
 ---
