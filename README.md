@@ -97,7 +97,9 @@ Comentários explicativos acompanham cada parte para facilitar a manutenção e 
 - Simulação ≤ 70 cm: LED vermelho + buzzer + mensagem de evacuação.
 - Desconexão ou falha do sensor: LED vermelho piscando + “Erro de leitura” no display.
 
-👨‍💻 Autores
+---
+
+## 👨‍💻 Autores
 
 Murilo Gonzalez Bez Chleba | RM: 556199 | GitHub
 
