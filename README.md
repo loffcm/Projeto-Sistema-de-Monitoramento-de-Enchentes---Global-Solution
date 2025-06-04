@@ -103,8 +103,8 @@ Comentários explicativos acompanham cada parte para facilitar a manutenção e 
 
 ## 👨‍💻 Autores
 
-Murilo Gonzalez Bez Chleba | RM: 556199 | GitHub
+- **Murilo Gonzalez Bez Chleba | RM: 556199 | [GitHub](https://github.com/MuriloBezChleba)**
 
-Caio Marques Lins | RM: 559805 | GitHub
+- **Caio Marques Lins | RM: 559805 | [GitHub](https://github.com/loffcm)**
 
-Guilherme Augusto Ferreira Fernandes | RM: 562107  | GitHub
+- **Guilherme Augusto Ferreira Fernandes | RM: 562107  | [GitHub](https://github.com/Guilherme77-7)**
