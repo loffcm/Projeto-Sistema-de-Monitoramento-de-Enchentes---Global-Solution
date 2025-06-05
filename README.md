@@ -74,7 +74,7 @@ Comentários explicativos acompanham cada parte para facilitar a manutenção e 
 
 ## 📹 Demonstração
 
-📽️ [Link para vídeo explicativo do projeto no YouTube ou Google Drive](https://youtu.be/97dKdDiNnks)
+📽️ [Link para vídeo explicativo do projeto no YouTube](https://youtu.be/97dKdDiNnks)
 
 ![Foto do projeto](tinkercad.png)
 
